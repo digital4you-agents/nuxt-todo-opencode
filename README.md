@@ -9,7 +9,7 @@ Kleine **Todo-App** mit **Nuxt**.
 
 ## Screenshot
 
-![Screenshot](docs/screenshot.png)
+![Better Screenshot](docs/new-screenshot.png)
 
 ## Setup
 
